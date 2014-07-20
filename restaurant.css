@@ -1,0 +1,8 @@
+.tabs li {
+	display: inline-block;
+	text-decoration: none;
+	margin-bottom: auto;
+	max-width: 600px;
+	margin-right: 50px;
+	margin-left: 50px;
+}
